@@ -210,7 +210,7 @@ img {
  
   border: 1px solid #e6e6e6;
   width: 100%;
-  max-height: 260px;
+  max-height: 210px;
 }
 
 .works-name {
@@ -455,7 +455,11 @@ img {
 
   /*  メインビジュアル */
   .mv {
-    height: 75vh;
+    height: 26vh;
+  }
+  
+  .turnBoxShow{
+    max-height: 415px;
   }
 
   .mv-container {
@@ -904,4 +908,13 @@ section {
 
 #top .rotateBox02{
   width: 100%;
+}
+
+@media screen and (max-width: 1090px) {
+  .works-img img {
+    border: 1px solid #e6e6e6;
+    width: 100%;
+    max-height: 150px;
+  }
+
 }

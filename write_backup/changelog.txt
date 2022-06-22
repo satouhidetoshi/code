@@ -1,0 +1,47 @@
+== Changelog ==
+
+= 2.1.2 - Feb 26, 2019 =
+* Fixed the setting of Drawer.
+* Fixed the setting of enqueueing functions.js.
+
+= 2.1.1 - Dec 25, 2018 =
+* Added READ ME in the Customize
+
+= 2.1.0 - Dec 09, 2018 =
+* Updated for WP 5.0 and Gutenberg
+
+= 2.0.2 - Oct 28, 2018 =
+* Updated to comply with the requirements of WordPress.org
+
+= 2.0.1 - Oct 05, 2018 =
+* Updated to comply with the requirements of WordPress.org
+
+= 2.0.0 - Oct 01, 2018 =
+* Completely redesigned
+
+= 1.1.2 - Sep 24, 2016 =
+* Added READ ME in the Customizer
+* Updated language files
+
+= 1.1.1 - Sep 08, 2016 =
+* Fixed logo settings
+* Fixed editor style
+* Added tags for Google Search Console
+* Updated registeration of Google Fonts
+* Updated theme tags
+
+= 1.1.0 - Apr 04, 2016 =
+* Implemented auto update
+* Changed credit text
+* Updated language files
+* Updated copyright year
+
+= 1.0.2 - Sep 11, 2015 =
+* Fixed customizer settings
+
+= 1.0.1 - Aug 17, 2015 =
+* Fixed customizer settings for WordPress 4.3
+* Updated language files
+
+= 1.0.0 - Apr 28, 2015 =
+* Initial release
